@@ -1,2 +1,0 @@
-127.0.0.1 - - [20/Apr/2017:23:58:55 +0800] "GET /search.html?q=%E5%B0%8F%E7%B1%B3 HTTP/1.0" 400 1064 http-bio-8086-exec-1 53
-127.0.0.1 - - [20/Apr/2017:23:58:56 +0800] "GET /favicon.ico HTTP/1.0" 404 973 http-bio-8086-exec-2 1
