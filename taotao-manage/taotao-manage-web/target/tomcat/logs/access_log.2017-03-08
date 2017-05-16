@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [08/Mar/2017:12:44:14 +0800] "GET /rest/page/login HTTP/1.1" 200 2208 http-bio-8080-exec-1 573
+0:0:0:0:0:0:0:1 - - [08/Mar/2017:12:44:14 +0800] "GET /js/jquery-easyui-1.4.1/themes/icons/ok.png HTTP/1.1" 200 883 http-bio-8080-exec-3 26
+0:0:0:0:0:0:0:1 - - [08/Mar/2017:12:44:14 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-4 2
+0:0:0:0:0:0:0:1 - - [08/Mar/2017:12:44:16 +0800] "GET /rest/page/index HTTP/1.1" 200 2539 http-bio-8080-exec-5 778
+0:0:0:0:0:0:0:1 - - [08/Mar/2017:12:44:17 +0800] "GET /rest/page/item-add?_=1488948256499 HTTP/1.1" 200 4635 http-bio-8080-exec-6 24
+0:0:0:0:0:0:0:1 - - [08/Mar/2017:12:44:17 +0800] "GET /js/kindeditor-4.1.10/kindeditor-all-min.js?_=1488948256500 HTTP/1.1" 200 179915 http-bio-8080-exec-7 43
+0:0:0:0:0:0:0:1 - - [08/Mar/2017:12:44:17 +0800] "GET /js/kindeditor-4.1.10/lang/zh_CN.js?_=1488948256501 HTTP/1.1" 200 8488 http-bio-8080-exec-8 17
+0:0:0:0:0:0:0:1 - - [08/Mar/2017:12:44:18 +0800] "GET /js/jquery-easyui-1.4.1/themes/icons/filesave.png HTTP/1.1" 200 898 http-bio-8080-exec-9 54
+0:0:0:0:0:0:0:1 - - [08/Mar/2017:12:44:20 +0800] "GET /rest/item/cat HTTP/1.1" 200 3358 http-bio-8080-exec-2 1752
+0:0:0:0:0:0:0:1 - - [08/Mar/2017:12:44:21 +0800] "GET /rest/item/cat?id=74 HTTP/1.1" 200 884 http-bio-8080-exec-2 8
+0:0:0:0:0:0:0:1 - - [08/Mar/2017:12:44:22 +0800] "GET /rest/item/cat?id=75 HTTP/1.1" 200 2262 http-bio-8080-exec-2 12
+0:0:0:0:0:0:0:1 - - [08/Mar/2017:12:44:23 +0800] "GET /rest/item/param/76 HTTP/1.1" 404 949 http-bio-8080-exec-2 2
+0:0:0:0:0:0:0:1 - - [08/Mar/2017:12:44:40 +0800] "POST /rest/item HTTP/1.1" 200 - http-bio-8080-exec-2 981

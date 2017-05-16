@@ -1,0 +1,2 @@
+127.0.0.1 - - [22/Apr/2017:00:02:23 +0800] "GET /favicon.ico HTTP/1.0" 404 973 http-bio-8086-exec-6 1
+127.0.0.1 - - [22/Apr/2017:00:03:10 +0800] "GET /favicon.ico HTTP/1.0" 404 973 http-bio-8086-exec-1 1
